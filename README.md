@@ -9,7 +9,13 @@ Project POO
  - el usuario debe poder finalizar tarea
  - el usuario debe poder dar una descripcion a la tarea
  - el usuario debe poder asignar la tarea a otro
- - al crear una tarea esta debe poder generar una alerta alerta a los demas involucrados en ella
+ - el usuario debe poder asignar un objeto de inventario a una tarea si es necesario
+ - al crear una tarea esta debe poder generar una alerta a los demas involucrados en ella
+ - la aplicacion debe almacenar la informacion de la produccion
+ - la aplicacion debe almacenar informacion necesaria pra la produccion
+ - la aplicacion debe crear registros de cada tarea y su estado
+ - la aplicacion debe crear registro del estado de la produccion
+ 
 
 
  - Imagenes del los Muckups basicos
